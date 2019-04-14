@@ -1,0 +1,16 @@
+.btn-success {
+    margin: 7px;
+}
+.btn-primary {
+    margin-left: 15px;
+}
+.container {
+    max-width: 1640px;
+}
+body {
+    background-color: antiquewhite;
+}
+#search {
+    padding-left: 50px;
+    max-width: 30%;
+}
